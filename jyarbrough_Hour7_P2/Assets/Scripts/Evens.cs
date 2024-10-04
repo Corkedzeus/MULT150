@@ -9,7 +9,6 @@ public class Evens : MonoBehaviour
     {
         int x;
         for (x = 22; x <= 100; x+=2) 
-        //while (x < 100)
         {
             Debug.Log(x);
         }
