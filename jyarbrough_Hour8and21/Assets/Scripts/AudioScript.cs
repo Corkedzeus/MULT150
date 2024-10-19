@@ -22,9 +22,7 @@ public class AudioScript : MonoBehaviour
             ToggleAudio();              
         }
     }
-    void ToggleAudio()  //this is how I understand this. Am I right?
-                        //void is the return type because we are just using this method as a container for the ToggleAudio function
-                        //so that in a larger script we could pass this method with 1 line instead of 4. 
+    void ToggleAudio()  
     {
         if (audioSource.isPlaying == true)
             audioSource.Stop();
