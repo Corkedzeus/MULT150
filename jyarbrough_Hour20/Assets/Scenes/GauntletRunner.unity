@@ -502,7 +502,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   powerupPrefab: {fileID: 3896958126779128721, guid: 1716bdf541b5ba94294c03f09e0a57ef, type: 3}
-  obstaclePrefab: {fileID: 2166215412003237744, guid: 3d1285dfad2bd70459e95bf168c8dd4a, type: 3}
+  obstaclePrefab: {fileID: 4919120919803706629, guid: 37525d9400475d34abb24ebdd5d072c0, type: 3}
   spawnCycle: 0.5
 --- !u!1001 &742634009
 PrefabInstance:
